@@ -1,0 +1,10 @@
+/result
+/result-*
+/.direnv/
+/build/
+/build-*/
+/logs/
+/run/
+*.o
+*.a
+compile_commands.json
